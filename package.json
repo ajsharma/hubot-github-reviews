@@ -1,0 +1,41 @@
+{
+  "name": "hubot-github-reviews",
+  "version": "1.0.0",
+  "author": "Ajay Sharma <aj@ajsharma.com>",
+  "description": "hubot script for adding statuses to GitHub reviews",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajsharma/hubot-github-reviews"
+  },
+  "keywords": [
+    "flow",
+    "github",
+    "reviews",
+    "hubot",
+    "deployment"
+  ],
+  "homepage": "https://github.com/ajsharma/hubot-github-reviews",
+  "contributors": [
+    {
+      "name": "Ajay Sharma",
+      "email": "aj@ajsharma.org"
+    }
+  ],
+  "dependencies": {
+    "githubot": "0.4.x",
+    "hubot": ">=2.6.0",
+  },
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm": ">= 1.1.x"
+  },
+  "bugs": {
+    "url": "https://github.com/ajsharma/hubot-github-reviews/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/ajsharma/hubot-github-reviews/raw/master/LICENSE.md"
+    }
+  ]
+}
