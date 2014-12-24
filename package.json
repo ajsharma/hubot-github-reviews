@@ -10,9 +10,9 @@
   "keywords": [
     "flow",
     "github",
-    "reviews",
     "hubot",
-    "deployment"
+    "pull requests",
+    "reviews"
   ],
   "homepage": "https://github.com/ajsharma/hubot-github-reviews",
   "contributors": [
